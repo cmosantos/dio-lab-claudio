@@ -16,6 +16,6 @@ Este repositório foi criado como parte dos desafios da DIO. Aqui você encontra
 Você pode clonar o repositório e testar os arquivos no seu editor favorito:
 
 ```bash
-git clone https://github.com/seu-usuario/meu-projeto-dio.git
+git clone https://github.com/cmosantos/dio-lab-claudio.git
 
 Feito com dedicação e café ☕ por Cláudio
